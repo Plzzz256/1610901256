@@ -1,4 +1,5 @@
-a = 1+2;
-b = 3+5;
-print(a)
-print(b)
+msg = "HELLO my son"
+msg1 = "comkak"
+msg2 = "GG"
+print(msg+msg1+msg2)
+
